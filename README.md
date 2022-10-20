@@ -1,11 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Chorong%20Han&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=당신이%20하는%20일을%20믿으세요✨%20&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Chorong%20Han&fontAlignY=30&fontSize=40&height=250&animation=blinking&desc=당신이%20하는%20일을%20믿으세요✨%20&descAlignY=48)
 
 <br/>
 
 <p align="center">🛠Tech Stack🛠</p>
-
-<br/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -20,6 +18,7 @@
 
 <p align="center">🚀<a href="https://choronghan.notion.site/HAN-456115c5e0e049eb95f53220fd348ffd">PORTFOLIO</a></p>
 
+<br/>
 <!--
 **hanchorong/hanchorong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
