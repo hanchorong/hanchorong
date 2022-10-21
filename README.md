@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Chorong%20Han&fontAlignY=25&fontSize=40&height=180&animation=blinking&desc=당신이%20하는%20일을%20믿으세요✨%20&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Chorong%20Han&fontColor=37352f&fontAlignY=30&fontSize=40&height=100&animation=blinking&desc=당신이%20하는%20일을%20믿으세요✨%20&descAlignY=60)
 
 <br/>
 
