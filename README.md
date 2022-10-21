@@ -5,11 +5,11 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanchorong&count_bg=%23FFD1F580&title_bg=%23CF97F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanchorong&count_bg=%23FFECEC&title_bg=%23EA9090&icon=&icon_color=%23FFECEC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
 
-<p align="center">🛠Tech Stack🛠</p>
+<p align="center">🛠 Tech Stack 🛠</p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 <br/>
 
-<p align="center">🚀<a href="https://choronghan.notion.site/HAN-456115c5e0e049eb95f53220fd348ffd">PORTFOLIO</a></p>
+<p align="center">🚀 <a href="https://choronghan.notion.site/HAN-456115c5e0e049eb95f53220fd348ffd">PORTFOLIO</a></p>
 
 <br/>
 
