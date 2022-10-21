@@ -1,5 +1,11 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Chorong%20Han&fontAlignY=30&fontSize=40&height=250&animation=blinking&desc=당신이%20하는%20일을%20믿으세요✨%20&descAlignY=48)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Chorong%20Han&fontAlignY=25&fontSize=40&height=180&animation=blinking&desc=당신이%20하는%20일을%20믿으세요✨%20&descAlignY=45)
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanchorong&count_bg=%23FFD1F580&title_bg=%23CF97F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
 
@@ -19,17 +25,5 @@
 <p align="center">🚀<a href="https://choronghan.notion.site/HAN-456115c5e0e049eb95f53220fd348ffd">PORTFOLIO</a></p>
 
 <br/>
-<!--
-**hanchorong/hanchorong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
