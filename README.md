@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Chorong%20Han&fontColor=37352f&fontAlignY=30&fontSize=40&height=100&animation=blinking&desc=당신이%20하는%20일을%20믿으세요✨%20&descAlignY=60)
- -->
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanchorong&count_bg=%23FFECEC&title_bg=%23EA9090&icon=&icon_color=%23FFECEC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
